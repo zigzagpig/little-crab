@@ -12,7 +12,7 @@ export const USER_NAME = "LittleCrab";
 export const USER_AVATAR = "/avatar.jpg";
 
 // Server and transition settings
-export const SERVER_URL = "https://little-crab-blog.vercel.app";
+export const SERVER_URL = "https://blog-git-main-zigzagpigs-projects.vercel.app";
 export const TRANSITION_API = true;
 
 // Some informative text on the site
