@@ -1,6 +1,6 @@
 ---
-title: 操作系统 多道程序与分时多任务 rCore Lab 1 实验报告
-description: 操作系统 多道程序与分时多任务 rCore Lab 1 实验报告
+title: rCore Lab 1 实验报告，操作系统:多道程序与分时多任务
+description: 操作系统rCore:多道程序与分时多任务
 pubDate: 07 18 2024
 image: https://saroprock.oss-cn-hangzhou.aliyuncs.com/img/diary-968592_1280.jpg
 tags:

@@ -21,8 +21,8 @@ export const infoTest = {
   noTag: "Uncategorized",
   tagPage: "Blog - ",
   link: "Link: ",
-  prevPage: "Recent posts",
-  nextPage: "Older posts",
+  prevPage: "上一页",
+  nextPage: "下一页",
 };
 
 // Menu items for navigation
